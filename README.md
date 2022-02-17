@@ -5,7 +5,11 @@ Add swagger to spring boot apps :
 3. Adding RequestMethod as annotations to APIs in Controller.java file
 
 Example: Hello Azyan!
+
 Project Name : hello
+
 mvnw spring-boot:run
+
 http://localhost:8080/api/hello
+
 http://localhost:8080/swagger-ui.html
